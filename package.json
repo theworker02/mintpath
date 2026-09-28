@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/mintpath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mint HTML/Markdown path fragments safely for docs pipelines.",
+  "bin": {
+    "mintpath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/mintpath.git"
+  },
+  "homepage": "https://theworker02.github.io/mintpath/",
+  "keywords": [
+    "mint",
+    "path",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
